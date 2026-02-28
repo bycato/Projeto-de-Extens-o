@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+
+nav{
+    background-color: lightgray;
+}
+
+a{
+    background-color: white;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+input{
+    padding: 10px;
+}
